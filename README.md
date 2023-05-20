@@ -3,7 +3,7 @@ This is a repository for my book "Game Startup Manual: Game Design"
 
 I share the same approach as Andry Burkov’s books, following the “read first, buy later” principle. This means that readers have the option to download and read book chapters for free before making a purchase. This practice is harmless and beneficial to readers.
  
-<img src="https://github.com/ardiawanbagusharisa/gamestartupmanual/blob/main/Cover.png"  width="25%"> 
+<img src="https://github.com/ardiawanbagusharisa/gamestartupmanual/blob/main/Cover.png"  width="30%"> 
 
 ## Prologue 
 This book is the first and part of the “Game Startup Manual” series, a book collection for game startup enthusiasts. We will provide another title, including game programming, game development, operational management, business and marketing plan, hopefully.
@@ -27,4 +27,6 @@ It’s important to keep in mind that this book is primarily based on the author
 - [XI. PROTOTYPING & PLAYTESTING ](https://github.com/ardiawanbagusharisa/gamestartupmanual/blob/main/%5BDRAFT%5D%20GSM%20Game%20Design%20Chapter%2011%20Prototyping%20and%20Playtesting.pdf)
 - [EPILOGUE: GAME OVER REFERENCES](https://github.com/ardiawanbagusharisa/gamestartupmanual/blob/main/%5BDRAFT%5D%20GSM%20Game%20Design%20Epilogue-References.pdf)
 
-contact: ardiawanbagusharisa@gmail.com | harisa.id 
+Link to Amazon.com: [coming soon]
+
+Contact: ardiawanbagusharisa@gmail.com | [harisa.id](http://www.harisa.id/) 
