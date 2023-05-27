@@ -27,6 +27,6 @@ It’s important to keep in mind that this book is primarily based on the author
 - [XI. PROTOTYPING & PLAYTESTING ](https://github.com/ardiawanbagusharisa/gamestartupmanual/blob/main/%5BDRAFT%5D%20GSM%20Game%20Design%20Chapter%2011%20Prototyping%20and%20Playtesting.pdf)
 - [EPILOGUE: GAME OVER REFERENCES](https://github.com/ardiawanbagusharisa/gamestartupmanual/blob/main/%5BDRAFT%5D%20GSM%20Game%20Design%20Epilogue-References.pdf)
 
-Link to Amazon.com: [coming soon]
+Link to Amazon.com: [coming soon at August]
 
 Contact: ardiawanbagusharisa@gmail.com | [harisa.id](http://www.harisa.id/) 
